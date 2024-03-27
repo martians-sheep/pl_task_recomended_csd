@@ -1,0 +1,2 @@
+# pl_task_recomended_csd
+制作ペーパレスのタスク割り当て用のデータセットを作るためのPythonコード
